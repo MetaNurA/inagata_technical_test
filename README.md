@@ -124,18 +124,18 @@ Validation diterapkan menggunakan `$request->validate()` pada controller.
 # 📚 API Documentation
 
 Postman Collection:  
-👉 (Paste Your Postman Link Here)
+(https://solar-crescent-577666.postman.co/workspace/My-Workspace~8880a8d2-f86c-4234-8b03-5a447393cb7f/collection/44254511-9c91f9b2-6737-4723-9882-9bf67e2d1289?action=share&creator=44254511)
 
 ---
 
 # 🎥 Video Demo
 
-YouTube Link:  
-👉 (Paste Your Video Link Here)
+Link Video:
+https://drive.google.com/file/d/1a6t-aiwU4FP24cS1ziJ8159UyL8xxTZ8/view?usp=sharing
 
 ---
 
 # 👨‍💻 Author
 
-Your Name  
+META NUR ARFIYA
 Backend Developer Technical Test
